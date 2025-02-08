@@ -78,6 +78,18 @@
 </div>
 
 ###
+<svg width="600" height="200">
+  <rect width="100%" height="100%" fill="black" />
+  <text x="10" y="20" style="fill:white; font-size:14px;">#include &lt;iostream&gt;</text>
+  <text x="10" y="40" style="fill:white; font-size:14px;">int main() {</text>
+  <text x="10" y="60" style="fill:white; font-size:14px;">    std::cout &lt;&lt; "Hello, world!";</text>
+  <text x="10" y="80" style="fill:white; font-size:14px;">    return 0;</text>
+  <text x="10" y="100" style="fill:white; font-size:14px;">}</text>
+  <circle cx="50" cy="50" r="5" fill="green">
+    <animate attributeName="cx" from="50" to="550" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="cy" from="50" to="150" dur="10s" repeatCount="indefinite" />
+  </circle>
+</svg>
 
 <img src="https://raw.githubusercontent.com/joelkkimani/joelkkimani/output/snake.svg" alt="Snake animation" />
 
