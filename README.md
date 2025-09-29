@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Joe+👋;Full-Stack+Developer+in+progress+🚀;Passionate+about+building+cool+projects;Turning+ideas+into+code+⚡">
 </p>
 
----
+--- 
 
 ## 👨‍💻 About Me
 <p align="center">
