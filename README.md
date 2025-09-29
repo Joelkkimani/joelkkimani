@@ -38,7 +38,7 @@
 
 ---
 
-<h2 style="font-weight:bold; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🚀 Featured Projects</h2>
+<h2 style="font-weight:bolder; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🚀 Featured Projects</h2>
 
 - 🎮 [Frantikie](https://joelkkimani.github.io/Frantikie) — fun, interactive project  
 - 🌐 [Portfolio](https://joelkkimani.github.io/joeportfolio/) — my developer showcase  
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 style="font-weight:bold; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🐍 Contribution Snake</h2>
+<h2 style="font-weight:bolder; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://github.com/joelkkimani/joelkkimani/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -66,7 +66,7 @@
 
 ---
 
-<h2 style="font-weight:bold; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🌐 Connect with Me</h2>
+<h2 style="font-weight:bolder; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:joelkimani295@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -75,7 +75,7 @@
 
 ---
 
-<h2 style="font-weight:bold; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🎉 Fun Facts & Interests</h2>
+<h2 style="font-weight:bolder; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🎉 Fun Facts & Interests</h2>
 
 - 🎧 I code best with **music on**  
 - 🕹️ Love gaming & exploring new tech  
