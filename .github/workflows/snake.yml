@@ -1,38 +1,24 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
-on: [push, pull_request, workflow_dispatch]
+on:
+  schedule: # Runs once a day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-
-      - name: Generate snake SVG
+      - name: Generate Snake Game
         uses: Platane/snk@v3
         with:
           github_user_name: joelkkimani
-          # optional inputs you can tweak:
-          # theme: github-dark
-          # color: "00ff00"
-          outputs: "dist/github-contribution-grid-snake.svg"
+          outputs: dist/snake.svg
 
-      - name: Create output branch and commit generated snake
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p dist
-          # move or ensure file exists
-          ls -la dist
-          # create output branch, copy dist files, commit & push
-          git switch --create output || git switch output
-          git rm -r --ignore-unmatch .
-          cp -r dist/* .
-          git add -A
-          git commit -m "chore: update contribution snake" || echo "no changes to commit"
-          git push origin output --force
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
