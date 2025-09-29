@@ -1,9 +1,6 @@
 name: Generate Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily at UTC midnight (optional)
-  workflow_dispatch:      # lets you run it manually from Actions tab
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   generate-snake:
