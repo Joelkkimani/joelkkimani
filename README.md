@@ -65,9 +65,7 @@
 </p>
 
 ---
----
-![Snake animation](https://github.com/joelkkimani/joelkkimani/blob/output/snake.svg)
----
+
 <h2 style="font-weight:bold; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">🌐 Connect with Me</h2>
 
 <p align="center">
