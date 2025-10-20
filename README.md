@@ -16,7 +16,7 @@
 <h2 style="font-weight:bold; font-size:28px; font-family:'Fira Code', monospace; text-align:center;">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌍+From+Kenya%2C+18+y%2Fo;💻+Aspiring+Full-Stack+Engineer;⚡+Love+creating+apps+%26+solving+problems;🚀+Currently+working+on+Frantikie+%26+portfolio+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🌍+From+Kenya%2C+19+y%2Fo;💻+Aspiring+Full-Stack+Engineer;⚡+Love+creating+apps+%26+solving+problems;🚀+Currently+working+on+Frantikie+%26+portfolio+projects" />
 </p>
 
 <p align="center">
