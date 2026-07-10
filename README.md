@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Joe and I'm a passionate developer from kenya,coding is my playground where i get to turn ideas into reality through lines of code .</h1>
+<h1 align="left">Hi 👋! My name is Joe, I'm a frontend developer and also a cybersecurity student(Penetration tester).</h1>
 
 ###
 <!-- Hero Banner -->
