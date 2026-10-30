@@ -61,7 +61,7 @@ Operating Systems
 
 🧪 Penetration Testing Projects & Write-ups
 
-Documenting my hands-on cybersecurity journey through practical labs, penetration testing exercises, vulnerability research, and security experiments.
+>>>Documenting my hands-on cybersecurity journey through practical labs, penetration testing exercises, vulnerability research, and security experiments.
 
 💥 Exploitation & Post-Exploitation
 
@@ -94,12 +94,10 @@ All security testing is conducted in authorized lab environments and controlled 
 
 
 🤝 Let’s Connect
-
-* GitHub: @Joelkkimani
-* LinkedIn: Joel Kimani
+* LinkedIn: JoelKimani
 
 ⸻
 
 <p align="center">
-  <i>"Think like an attacker. Build like an engineer. Secure like a professional."</i>
+  <i><bold>"Think like an attacker. Build like an engineer. Secure like a professional."</bold></i>
 </p>
