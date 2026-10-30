@@ -49,9 +49,33 @@ Operating Systems
 * Exploring bug bounty methodologies.
 * Building modern front-end projects.
 
-📊 GitHub Statistics
+📊 GitHub 🧰 Security Arsenal
 
-⸻
+🔎 Reconnaissance & Enumeration
+
+💥 Exploitation & Web Application Security
+
+🔐 Password Security & Hash Cracking
+
+🐧 Operating Systems & Scripting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 🤝 Let’s Connect
 
