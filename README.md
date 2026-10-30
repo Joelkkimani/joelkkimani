@@ -59,22 +59,38 @@ Operating Systems
 
 🐧 Operating Systems & Scripting
 
+🧪 Penetration Testing Projects & Write-ups
 
+Documenting my hands-on cybersecurity journey through practical labs, penetration testing exercises, vulnerability research, and security experiments.
 
+💥 Exploitation & Post-Exploitation
 
+* Metasploit Framework Labs – Practising vulnerability exploitation, payload configuration, Meterpreter sessions, privilege escalation concepts, and post-exploitation.
+* EternalBlue (MS17-010) – Exploring SMB vulnerabilities and understanding exploitation in a controlled Windows lab environment.
+* Windows Post-Exploitation – Practising Meterpreter commands, process migration, credential extraction, and system enumeration.
 
+🌐 Web Application Security
 
+* HTTP Request & Response Analysis – Exploring HTTP methods, headers, status codes, and API interactions.
+* API Security Testing – Practising HTTP PUT and POST requests and understanding insecure direct object references (IDOR).
+* Burp Suite Labs – Learning request interception, modification, and web application security testing.
 
+🔐 Password Security & Hash Cracking
 
+* John the Ripper – Practising password hash identification and offline password auditing.
+* Hashcat – Exploring password recovery techniques and hash cracking concepts.
 
+🔎 Reconnaissance & Enumeration
 
+* Network Scanning with Nmap – Exploring open ports, services, and target enumeration.
+* Information Gathering with Amass – Practising domain reconnaissance and attack surface discovery.
 
+🎯 Cybersecurity Learning Platforms
 
+* TryHackMe – Practical penetration testing and cybersecurity labs.
+* Subverted – Cybersecurity practice and exploration.
 
-
-
-
-
+All security testing is conducted in authorized lab environments and controlled systems.
 
 
 🤝 Let’s Connect
