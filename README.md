@@ -1,12 +1,4 @@
-Hey, I’m Joel Kimani 👋
-
-🛡️ Penetration Tester | Front-End Developer
-
-I’m a cybersecurity practitioner focused on offensive security, penetration testing, and web application security. I enjoy exploring how systems work, identifying vulnerabilities, understanding exploitation techniques, and learning how to make applications more secure.
-
-Alongside cybersecurity, I build modern and responsive web applications through front-end development.
-
-Building. Breaking. Securing.
+Penetration Tester | Web Application Security
 
 ⸻
 
